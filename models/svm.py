@@ -1,5 +1,6 @@
 import numpy as np
 import pandas as pd
+from libsvm import svmutil
 from svmutil import *
 from sklearn.preprocessing import StandardScaler
 
